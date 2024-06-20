@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fogata
-- 👀 I’m interested in Technology / Games / GYM
+- 👀 I’m interested in Technology / Games / Machine Learning / GYM
 - 🌱 I’m currently learning Devops
 
 
