@@ -3,17 +3,22 @@
 ![Welcome](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
 
 ## About Me
-Welcome to my little corner of the internet! I'm a tech enthusiast with a passion for all things digital. Whether it's coding, gaming, or hitting the gym, I'm always looking for the next challenge.
+Welcome to my little corner of the internet! I'm a tech enthusiast and AI practitioner who loves turning complex problems into elegant solutions. Whether it's coding, deploying AI models, or hitting the gym, I'm always pushing boundaries.
 
 ### 🔍 What I'm Into
-- **Technology**: From the latest gadgets to groundbreaking software, I'm always in the loop.
-- **Games**: Whether it's a fast-paced shooter or a strategic RPG, I love diving into new worlds.
-- **Machine Learning**: Teaching machines to think is my kind of fun!
-- **GYM**: When I'm not coding, you can find me lifting weights or breaking a sweat.
-- **.Net**: Building robust applications with .Net is my jam.
+- **Artificial Intelligence**: From prompt engineering to fine-tuning models, I'm passionate about building intelligent systems that deliver real value.
+- **Machine Learning & Deep Learning**: Exploring everything from traditional ML models to generative AI (like GPT-4) and RAG architectures.
+- **.NET & Backend**: Crafting scalable APIs and real-time apps with .NET and SignalR.
+- **DevOps**: Containerization, CI/CD, and deploying ML pipelines with tools like Docker and GitHub Actions.
+- **Games & Unity**: I love developing immersive experiences and experimenting with AI-powered NPCs.
+- **GYM**: Balancing code with cardio—because strong code needs a strong mind and body.
 
 ### 🌱 Currently Growing
-Right now, I'm diving into the world of **DevOps**. Automation, CI/CD, and cloud infrastructure are my new playground.
+I'm focused on practical applications of **Generative AI**, **Azure AI Services**, and **MLOps**, with a particular interest in:
+- Retrieval-Augmented Generation (RAG)
+- Intelligent chatbots with Azure OpenAI
+- ML lifecycle management with MLflow
+- AI observability using Evidently
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/felipeogata/)
@@ -22,13 +27,18 @@ Right now, I'm diving into the world of **DevOps**. Automation, CI/CD, and cloud
 ![Coding](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ## My Projects
-Feel free to explore my repositories. You'll find a mix of projects showcasing my interests and skills. Don't hesitate to reach out if you want to collaborate!
+Take a look at some of my repositories to see AI-powered systems, cloud-native apps, and experiments with language models. Whether it's automating LinkedIn content or creating tokenized AI labs, I’m always building something cool.
+
+**Featured:**
+- `linkedin-content-creator` — RAG-based content generator for LinkedIn
+- `ai-lab-dao` — Tokenized AI ecosystem with DAO logic
+- `gpt-chatbot-azure` — Real-time chatbot using Azure Bot Framework + OpenAI
 
 ## Fun Fact
-I believe that the best way to predict the future is to create it. Let's build something amazing together!
+I believe the future of software is intelligent, adaptive, and collaborative. Let's build systems that learn, grow, and empower people.
 
 ![Build](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
-Thanks for stopping by! Let's connect and make the tech world even more awesome. 🚀
+Thanks for stopping by! Let’s connect and shape the future of AI, one repo at a time. 🚀
